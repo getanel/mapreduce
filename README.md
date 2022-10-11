@@ -19,7 +19,7 @@ From the folder containing pom.xml file:
 
 After a successful build, you will find a .jar file into the target directory (or in your local repository):
 
-      ./target/mapreduce*.jar
+     
 
 You can execute the exercises in Hadoop, typing:
 
@@ -56,7 +56,7 @@ Histogram:
 
    Usage: 
 
-       hadoop jar ./target/mapreduce-1.0-SNAPSHOT.jar com.agartime.utad.Driver friends input_file output_file n_bars
+      le output_file n_bars
 
    Example:
 
